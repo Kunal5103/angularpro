@@ -1,0 +1,20 @@
+<resources>
+    <array name="periods">
+        <item>Select Lecture</item>
+
+        <item>MAD</item>
+        <item>ST</item>
+        <item>KRAI</item>
+        <item>CC</item>
+        <item>DM</item>
+    </array>
+    <array name="Department">
+        <item>select Division</item>
+        <item>FY-MCA</item>
+        <item>SY-MCA</item>
+        <item>TY-MCA</item>
+    </array>
+
+    <string name="app_name">Being There 2</string>
+
+</resources>
