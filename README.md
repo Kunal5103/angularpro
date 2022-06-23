@@ -1,2 +1,2 @@
-# Being-There
+# Attendance app
 Attendance Monitoring Application
